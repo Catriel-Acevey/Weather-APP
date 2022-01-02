@@ -1,0 +1,16 @@
+.card {
+  width: 18rem;
+  background-color: #336b87;
+}
+
+.btn-outline-danger {
+  border-color: transparent;
+}
+
+.card-img-top {
+  margin-left: 25%;
+}
+
+.detail {
+  margin-left: 1.5rem;
+}
