@@ -15,7 +15,7 @@ export default function SearchBar(props) {
         <input
           className="form-control me-2"
           type="search"
-          placeholder="Search city"
+          placeholder="Search City"
           id="nav-input-search"
         ></input>
         <button className="btn btn-outline-success" type="submit">
