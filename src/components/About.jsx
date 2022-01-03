@@ -5,7 +5,7 @@ import "./About.css";
 function About() {
   return (
     <div>
-      <div className="card text-white mb-3 shadow-lg">
+      <div className="card text-white shadow-lg">
         <div className="row g-0">
           <div className="col-md-8">
             <div className="card-body">

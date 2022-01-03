@@ -1,0 +1,11 @@
+.round-bottom {
+  border-radius: 50%;
+  background-color: #90afc5;
+  width: 10em;
+  height: 10em;
+  margin: 25% auto;
+}
+
+.image-city {
+  margin-top: 20%;
+}

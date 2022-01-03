@@ -14,7 +14,7 @@ export default function Card({ min, max, name, img, onClose, id }) {
         <div className="card-body">
           <h5 className="card-title text-white">{name}</h5>
           <p className="card-text text-white">
-            Max: {max}°. Min: {min}°.
+            Max: {max} K. Min: {min} K.
           </p>
           <button onClick={onClose} className="btn btn-outline-danger">
             Close
