@@ -44,16 +44,16 @@ __IMPORTANTE__: Para poder realizar las llamadas a la API es necesario contar co
   <img src="./images/home.png" />
 </p>
 
-### Página About
-
-<p align="center">
-  <img src="./images/about.png" />
-</p>
-
 ### Página Details
 
 <p align="center">
   <img src="./images/details.png" />
+</p>
+
+### Página About
+
+<p align="center">
+  <img src="./images/about.png" />
 </p>
 
 ## Mobile
@@ -70,14 +70,14 @@ __IMPORTANTE__: Para poder realizar las llamadas a la API es necesario contar co
   <img src="./images/nav-mobile.png" />
 </p>
 
-### Página About
-
-<p align="center">
-  <img src="./images/about-mobile.png" />
-</p>
-
 ### Página Details
 
 <p align="center">
   <img src="./images/details-mobile.png" />
+</p>
+
+### Página About
+
+<p align="center">
+  <img src="./images/about-mobile.png" />
 </p>
