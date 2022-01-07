@@ -41,19 +41,19 @@ __IMPORTANTE__: Para poder realizar las llamadas a la API es necesario contar co
 ### Página Home
 
 <p align="center">
-  <img src="./preview/desktop-home.png" />
+  <img src="./images/home.png" />
 </p>
 
 ### Página About
 
 <p align="center">
-  <img src="./preview/desktop-registration.png" />
+  <img src="./images/about.png" />
 </p>
 
-### Página Detail
+### Página Details
 
 <p align="center">
-  <img src="./preview/desktop-gameInfo.png" />
+  <img src="./images/details.png" />
 </p>
 
 ## Mobile
@@ -61,23 +61,23 @@ __IMPORTANTE__: Para poder realizar las llamadas a la API es necesario contar co
 ### Página Home
 
 <p align="center">
-  <img width="450" src="./preview/mobile-home.JPG" />
+  <img width="450" src="./images/home-mobile.png" />
 </p>
 
 ### Menú Nav
 
 <p align="center">
-  <img width="450" src="./preview/mobile-nav.JPG" />
+  <img width="450" src="./images/nav-mobile.png" />
 </p>
 
 ### Página About
 
 <p align="center">
-  <img src="./preview/desktop-registration.png" />
+  <img src="./images/about-mobile.png" />
 </p>
 
-### Página Detail
+### Página Details
 
 <p align="center">
-  <img src="./preview/desktop-gameInfo.png" />
+  <img src="./images/details-mobile.png" />
 </p>
