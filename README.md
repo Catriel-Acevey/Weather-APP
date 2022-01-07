@@ -61,13 +61,13 @@ __IMPORTANTE__: Para poder realizar las llamadas a la API es necesario contar co
 ### Página Home
 
 <p align="center">
-  <img width="450" src="./images/home-mobile.png" />
+  <img src="./images/home-mobile.png" />
 </p>
 
 ### Menú Nav
 
 <p align="center">
-  <img width="450" src="./images/nav-mobile.png" />
+  <img src="./images/nav-mobile.png" />
 </p>
 
 ### Página About
